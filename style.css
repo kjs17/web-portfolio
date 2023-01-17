@@ -1,0 +1,6 @@
+#my-pic{
+	width: 100%;
+	height: 100vh;
+	background: url("images/PROFILE.jpg") top center;
+	background-size: cover;
+}
