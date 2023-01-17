@@ -4,10 +4,7 @@
 	box-sizing: border-box;
 }
 
-.bg-image {
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    height: 100vh;
+#logo{
+    border: 3px solid #000;
+    padding: 0;
 }
